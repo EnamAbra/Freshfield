@@ -1,0 +1,32 @@
+.section{
+
+background-color: #a2de64;
+padding-top: 64px;
+padding-bottom: 64px;
+padding-left: 100px;
+padding-right: 800px;
+
+display: flex;
+height:max-content;
+width:max-content
+
+}
+.sideby-video{
+  text-overflow: initial;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+.meet{
+    
+  
+    font-size: 2.75rem;
+    line-height: 1.1;
+}
+.part2{
+    color:#fdf8e9;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    padding-left: 100px;
+    padding-right: 800px;
+}

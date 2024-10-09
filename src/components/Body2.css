@@ -1,0 +1,26 @@
+.benefits{
+    text-align: center;
+    color:#2c4530;
+    font-size: 20px;
+}
+.undertext{
+
+    text-align: center;
+    color:#2c4530;
+    font-size: 40px;
+
+}
+.firstline{
+    align-items:center;
+    display:flex;
+    justify-content: space-evenly;
+    border-left: 30px;
+}
+.img{
+
+    border-radius: 50%;
+    border-left: 60px;
+}
+.secondline{
+    padding-left: 30px;
+}

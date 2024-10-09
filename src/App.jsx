@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Home2 from './components/Home2';
 import Body1 from './components/Body1';
+import Body2 from './components/Body2';
 import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
      <Home/>
   <Home2/>
   <Body1/>
+  <Body2/>
 
   
 

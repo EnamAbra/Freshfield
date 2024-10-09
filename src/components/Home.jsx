@@ -21,8 +21,6 @@ Modern Farm</h2></b>
 
     </div>
 
-<div className="part2">
-<h1>OUR STORY</h1>
 
 
 
@@ -44,7 +42,6 @@ Modern Farm</h2></b>
 
 
 
-</div>
 
 
 

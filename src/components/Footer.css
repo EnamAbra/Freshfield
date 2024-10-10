@@ -1,0 +1,27 @@
+.footer{
+    background-color: #2c4530;
+    padding-bottom: 200px;
+}
+.logo{
+    padding-left: 300px;
+}
+.nut{
+    display: flex;
+    padding-left: 50px;
+    justify-content: space-evenly;
+    
+}
+.navigate{
+    flex-direction: column;
+    display: flex;
+    color: #9ba3af;
+}
+
+.utility{
+    flex-direction: column;
+    display: flex;
+    color: #9ba3af;
+}
+.freshfieldd{
+    color: #9ba3af;
+}

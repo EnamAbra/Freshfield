@@ -6,14 +6,15 @@ return(
 <div>
 <div className="subBar">
  <div className="image"><img src="/freshfield logo.svg" FreshField/></div>
-
-    <option >About Us</option>
-    < option >Our Story</option>
-    <option >Our Harvest</option>
-    <option>Benefits</option>
-    <option>Reviews</option>
-    <option>Contact Us</option>
-    <button className="button">Buy Template</button>
+<div className="options">
+    <option style={{paddingRight:"50px"}}>About Us</option>
+    < option className="optionssss">Our Story</option>
+    <option  className="optionssss">Our Harvest</option>
+    <option className="optionssss" >Benefits</option>
+    <option className="optionssss">Reviews</option>
+    <option className="optionssss">Contact Us</option>
+   <div style={{paddingLeft:"100px"}}> <button className="button">Buy Template</button></div>
+    </div>
 </div>
 
 <div style={{display:"flex"}}>

@@ -3,15 +3,13 @@ function Body3() {
   return (
     <div style={{ paddingTop: "300px" }}>
       <div className="video2">
-        <video className="videospec">
-          <source src="/video2.mp4" controls=" autoplay " type="video/mp4" />
-        </video>
+        <video className="videospec" src="/video2.mp4" autoPlay></video>
 
         <div className="borderss">
           <div className="contents">
             <h2>INTERESTED IN OUR PRODUCTS?</h2>
             <h1 className="reach">
-              <b>Reach to Us!</b>
+              s<b>Reach to Us!</b>
             </h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.

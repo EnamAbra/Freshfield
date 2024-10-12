@@ -7,7 +7,7 @@ function Footer(){
 
 <div className='nut'>
 <div > 
-<h3 style={{fontSize:"25px", color:"white"}}><b>Navigate</b></h3>
+<h3 style={{fontSize:"25px", color:"white"}} id='contact'><b>Navigate</b></h3>
 
     <ul className='navigate' >
 <li>About Us </li>
